@@ -1,0 +1,6 @@
+{
+  "name": "ITCPO - ERP",
+  "description": "Sistema ERP integral con facturación electrónica DTE, compras, inventario, tesorería, contabilidad y reportes fiscales SV con paleta 60% Naranja, 30% Azul y 10% Gris Claro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
